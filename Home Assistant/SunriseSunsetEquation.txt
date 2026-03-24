@@ -1,0 +1,1 @@
+cos(hour angle) = (sin(standard solar altitude for sunrise and sunset) - sin(solar declination))​/(cos(latitude) * cos(solar declination))
