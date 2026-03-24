@@ -11,7 +11,7 @@ This folder includes:
 
 ## Quick Links
 
-- [Instructions](./INSTRUCTIONS.md)
+- [Instructions](./Instructions.md)
 
 The Python script uses the `astral` library and Python's `zoneinfo` support to calculate sunrise and sunset times from GPS coordinates, a date, and a time zone. The PowerShell script wraps a small embedded Python block instead of reimplementing the solar math directly.
 
